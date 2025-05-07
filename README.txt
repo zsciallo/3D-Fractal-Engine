@@ -1,4 +1,5 @@
 /*
+* Run the compiled program through MINGW64 Shell, or a similar shell, by using ./final.exe
 * CSCI 4229 Final
 * Zackery Sciallo
 * Ray Marched Fractals
